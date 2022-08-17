@@ -62,6 +62,12 @@ loadMeals('fish');
 const loadMealDetail = mealName => {
     console.log(mealName)
 }
+
+
+
+// const loadMealDetail = mealName => {
+//     console.log(mealName)
+// }
 // const loadMealDetail = mealName => {
 //     console.log(mealName)
 // }
